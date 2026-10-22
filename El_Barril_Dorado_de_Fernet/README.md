@@ -53,7 +53,7 @@ gAAAAABn6u19Yn3pSxJjtIjSSsa4Tfgd5VI6C2lZrIQACzm4oUQVtkyuee627i8XWJ1vlFnQUIH87r_V
 
 Challenge completed on **[thePwnLab](https://thepwnlab.es/retos)**.
 
-![Completion certificate](certificate.png)
+![Completion certificate](images/certificate.png)
 
 🔗 **[Verify this certificate](https://thepwnlab.es/certificado/894426fa0faa7f960bb0eb537874cd92e72558d8078d17cb02d276190f809a80)**
 

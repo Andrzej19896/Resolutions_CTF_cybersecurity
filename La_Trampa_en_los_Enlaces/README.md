@@ -131,7 +131,7 @@ gopher://127.1:6379/_%2a2%0d%0a%243%0d%0aGET%0d%0a...
 
 Challenge completed on **[thePwnLab](https://thepwnlab.es/retos)**.
 
-![Completion certificate](certificate.png)
+![Completion certificate](images/certificate.png)
 
 🔗 **[Verify this certificate](https://thepwnlab.es/certificado/59f4f392fef3cc3aa60291496a374cf70f4ee50c0733eacc69cefd5fd5e79c0e)**
 

@@ -45,7 +45,7 @@
 
 Challenge completed on **[thePwnLab](https://thepwnlab.es/retos)**.
 
-![Completion certificate](certificate.png)
+![Completion certificate](images/certificate.png)
 
 🔗 **[Verify this certificate](https://thepwnlab.es/certificado/d2e1b6d833580f361653e68e4b3351476a4940b7011d57d9ddef65f745f3b9b6)**
 
