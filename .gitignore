@@ -1,0 +1,9 @@
+# Robocze notatki i materiały — nie publikować na GitHub
+draft/
+
+# Typowe śmieci systemowe/edytora (opcjonalnie, ale warto)
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
